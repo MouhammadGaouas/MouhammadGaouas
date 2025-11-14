@@ -69,6 +69,6 @@
 
 ---
 
-<img src ="https://tenor.com/view/duong2-gif-3381597521751248348" />
+![Anime GIF](https://github.com/MouhammadGaouas/MouhammadGaouas/blob/main/anime.gif?raw=true)
 
 ### ⭐ If you like my profile, consider giving my repositories a star!
