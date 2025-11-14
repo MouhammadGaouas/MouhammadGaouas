@@ -69,6 +69,6 @@
 
 ---
 
-![Anime GIF](https://github.com/MouhammadGaouas/MouhammadGaouas/blob/main/anime.gif?raw=true)
+![Anime GIF]([https://github.com/MouhammadGaouas/MouhammadGaouas/blob/main/anime.gif?raw=true](https://github.com/MouhammadGaouas/MouhammadGaouas/blob/main/duong2.gif))
 
 ### ⭐ If you like my profile, consider giving my repositories a star!
