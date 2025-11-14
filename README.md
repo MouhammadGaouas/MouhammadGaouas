@@ -69,6 +69,8 @@
 
 ---
 
+### ⭐ If you like my profile, consider giving my repositories a star!
+
+
 ![duong2 gif](https://raw.githubusercontent.com/MouhammadGaouas/MouhammadGaouas/main/duong2.gif)
 
-### ⭐ If you like my profile, consider giving my repositories a star!
