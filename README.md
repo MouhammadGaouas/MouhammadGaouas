@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/206922381?v=4" width="120" style="border-radius: 50%;">
   <h1>Hi, I'm Mohammed Gaouas 👋</h1>
   <p><strong>Full-Stack Developer | JavaScript, Node.js & React</strong></p>
 </div>
