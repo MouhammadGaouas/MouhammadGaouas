@@ -62,13 +62,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-
-![snake gif](https://github.com/MouhammadGaouas/MouhammadGaouas/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ### ⭐ If you like my profile, consider giving my repositories a star!
