@@ -1,16 +1,74 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;">
+  <h1>Hi, I'm Mohammed Gaouas 👋</h1>
+  <p><strong>Full-Stack Developer | JavaScript, Node.js & React</strong></p>
+</div>
 
-<!--
-**MouhammadGaouas/MouhammadGaouas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m a **Full-Stack Developer** with experience in frontend and backend technologies
+- 🎯 I build modern web applications using **React, Node.js, Express, MongoDB**
+- 📱 Interested in creating real-world projects and mobile gaming content
+- 🌱 Currently improving backend architecture and exploring Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+### **Frontend & Styling**
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MouhammadGaouas&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouhammadGaouas&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=MouhammadGaouas&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/MouhammadGaouas)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:you@example.com)
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+
+![snake gif](https://github.com/MouhammadGaouas/MouhammadGaouas/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+### ⭐ If you like my profile, consider giving my repositories a star!
