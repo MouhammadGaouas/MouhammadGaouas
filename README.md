@@ -5,7 +5,8 @@
   <p><strong>Full-Stack Developer | JavaScript, Node.js & React</strong></p>
 </div>
 
-![banner_gif]([https://github.com/MouhammadGaouas/MouhammadGaouas/blob/main/banner.gif])
+![banner_gif](https://raw.githubusercontent.com/MouhammadGaouas/MouhammadGaouas/main/banner.gif)
+
 ---
 
 ## 🚀 About Me
