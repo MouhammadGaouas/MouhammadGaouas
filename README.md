@@ -2,7 +2,7 @@
 <div align="center">
   <img style = "border-radius: 100px ;" src="https://avatars.githubusercontent.com/u/206922381?v=4" width="120" style="border-radius: 50%;">
   <h1>Hi, I'm Mohammed Gaouas 👋</h1>
-  ![duong2 gif](https://raw.githubusercontent.com/MouhammadGaouas/MouhammadGaouas/main/duong2.gif)
+  ![banner gif]([https://github.com/MouhammadGaouas/MouhammadGaouas/blob/main/banner.gif])
   <p><strong>Full-Stack Developer | JavaScript, Node.js & React</strong></p>
 </div>
 
