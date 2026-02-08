@@ -2,10 +2,11 @@
 <div align="center">
   <img style = "border-radius: 100px ;" src="https://avatars.githubusercontent.com/u/206922381?v=4" width="120" style="border-radius: 50%;">
   <h1>Hi, I'm Mohammed Gaouas 👋</h1>
+  ![banner_gif](https://raw.githubusercontent.com/MouhammadGaouas/MouhammadGaouas/main/banner.gif)
   <p><strong>Full-Stack Developer | JavaScript, Node.js & React</strong></p>
 </div>
 
-![banner_gif](https://raw.githubusercontent.com/MouhammadGaouas/MouhammadGaouas/main/banner.gif)
+
 
 ---
 
