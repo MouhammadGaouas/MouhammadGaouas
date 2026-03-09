@@ -1,17 +1,17 @@
-name: Generate Metrics
+name: "Generate GitHub Metrics"
 
 on:
-  workflow_dispatch: # لتشغيله يدويًا
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # كل يوم منتصف الليل
+    - cron: "0 0 * * *" # كل يوم
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate Metrics
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@latest
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
