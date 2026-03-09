@@ -1,65 +1,32 @@
-# Hi there 👋, I'm Mohammed (aka **Candia Shoko**)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gaouas%20Mouhammad&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%2F%20Software%20engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=MouhammadGaouas">
+    <img src="https://komarev.com/ghpvc/?username=MouhammadGaouas&label=Profile%20views&color=00FFFF&style=flat-square" alt="MouhammadGaouas's profile views" />
+  </a>
+</p>
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/MouhammadGaouas">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MouhammadGaouas&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="MouhammadGaouas's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=MouhammadGaouas&theme=nightowl&hide_border=true&cache_seconds=86400" alt="MouhammadGaouas's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=MouhammadGaouas&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Gaouas Mouhammad's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MouhammadGaouas&theme=nightowl&radius=10" alt="MouhammadGaouas's Activity Graph" />
+</p>
 
-## 🔭 About Me
-I'm a **Backend Developer** and **Software Engineering enthusiast**.  
-I love building **efficient systems**, **learning new technologies**, and playing **War Thunder & Counter-Strike** 🎮.  
 
-- 🌱 Currently learning **Next.js**, **React Native**, and mastering **Databases**
-- 💻 Passionate about **Backend Development** and **Fullstack Projects**
-- ☕ Coffee-powered coder ☕
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/MouhammadGaouas">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MouhammadGaouas&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
----
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-- Advanced **Database Management** (SQL & NoSQL)
-- **Next.js** and **Fullstack Project Architecture**
-- **React Native** for mobile development
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" />
-</div>
-
----
-
-## ⚡ Fun Fact
-- 🎮 Gamer: **War Thunder** & **Counter-Strike**
-- ☕ Coffee is life
-- 💡 Love experimenting with new tech stacks and APIs
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-
-# Hi there 👋
-
-![Metrics](./metrics.svg)
