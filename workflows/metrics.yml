@@ -1,0 +1,17 @@
+name: Generate Metrics
+
+on:
+  workflow_dispatch: # لتشغيله يدويًا
+  schedule:
+    - cron: "0 0 * * *" # كل يوم منتصف الليل
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
