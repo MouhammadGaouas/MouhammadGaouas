@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="[https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif](https://wallpaperaccess.com/download/pixel-art-gif-8351209)" alt="Banner" width="100%" />
+<img src="[[https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif](https://wallpaperaccess.com/download/pixel-art-gif-8351209)](https://wallpaperaccess.com/full/8351209.gif)" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Web Development
